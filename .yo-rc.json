@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "com.rahul.dev",
+    "packageFolder": "com/rahul/dev",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "hi",
+      "mr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NjMzMzYxYTQ4ZjlmNjBiZWJmMWI4NWRmNjQxNTAzNzJiMzVjZmEwYjM5OGQ3M2I0ZGVmZWI1NTYyZmZjMWE3MWE3MjMxZDE4NTU4NzAzMDQ0YmUzYWMxMjY5MmU5MDM0OTE2ZjFmOTE4NTZhZTE1OTc1NTNkZDZjYmMwOWI0MDk="
+  },
+  "git-provider": "GitHub",
+  "git-company": "Ajay19291",
+  "repository-name": "jhipster-sample-application"
+}
